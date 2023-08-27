@@ -115,10 +115,11 @@ ul.our-primary-menu li ul li a{}
 
 /*  Slider / Banner CSS  */
 .slider-section{
- background: url(img/main-banner2.jpg) no-repeat top center;
+ background: url(https://i.ibb.co/TYKYBZf/main-banner2.jpg) no-repeat top center;
  background-size: cover;
  background-attachment: fixed;
 }
+
 .slider-content-wrap{
  height: 90vh;
  display: flex;
@@ -716,3 +717,6 @@ border-radius: 50%;
 .footer-contact-item a {
  text-decoration: none;
 }
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0ymYjkH/logo.png" alt="logo" border="0"></a>
